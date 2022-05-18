@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbuck98
 - 👀 I’m interested in entering a new career in technology that includes learning a little bit of both front and back end web development 
-- 🌱 I’m currently learning Javascript and HTML
+- 🌱 I’m currently learning Javascript, Python and HTML
 - 💞️ I’m looking to collaborate on any beginner projects 
 - 📫 How to reach me: https://www.linkedin.com/in/dechelleb/, dechellebuckhalter@gmail.com
 
